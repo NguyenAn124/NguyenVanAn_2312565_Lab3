@@ -1,0 +1,7 @@
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\Lab3.3_ĐọcXML\bin\Debug\Lab3.3_ĐọcXML.exe.config
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\Lab3.3_ĐọcXML\bin\Debug\Lab3.3_ĐọcXML.exe
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\Lab3.3_ĐọcXML\bin\Debug\Lab3.3_ĐọcXML.pdb
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\Lab3.3_ĐọcXML\obj\Debug\Lab3.3_ĐọcXML.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\Lab3.3_ĐọcXML\obj\Debug\Lab3.3_ĐọcXML.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\Lab3.3_ĐọcXML\obj\Debug\Lab3.3_ĐọcXML.exe
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\Lab3.3_ĐọcXML\obj\Debug\Lab3.3_ĐọcXML.pdb

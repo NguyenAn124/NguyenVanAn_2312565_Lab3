@@ -1,0 +1,11 @@
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\bin\Debug\BaiTap.exe.config
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\bin\Debug\BaiTap.exe
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\bin\Debug\BaiTap.pdb
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.FormNTTSinhVien.resources
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.FormTimKiem.resources
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.exe
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\BaiTap\obj\Debug\BaiTap.pdb

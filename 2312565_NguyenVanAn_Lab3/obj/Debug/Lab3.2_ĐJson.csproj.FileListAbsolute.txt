@@ -1,0 +1,13 @@
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\bin\Debug\2312565_NguyenVanAn_Lab3.exe.config
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\bin\Debug\2312565_NguyenVanAn_Lab3.exe
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\bin\Debug\2312565_NguyenVanAn_Lab3.pdb
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\Lab3.2_ĐJson.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\_2312565_NguyenVanAn_Lab3.Form1.resources
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\_2312565_NguyenVanAn_Lab3.Properties.Resources.resources
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\Lab3.2_ĐJson.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\Lab3.2_ĐJson.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\Lab3.2_ĐJson.csproj.CopyComplete
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\2312565_NguyenVanAn_Lab3.exe
+C:\Users\PC602\Downloads\2312565_NguyenVanAn_Lab3_Desktop-master\2312565_NguyenVanAn_Lab3\obj\Debug\2312565_NguyenVanAn_Lab3.pdb

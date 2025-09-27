@@ -1,0 +1,5 @@
+2312565|Nguyễn Văn|An|CTK47A|13/11/2004|012345799|0329.365.229|15 Phan Chu Trinh, TP Đà Lạt|1|Lập trình mạng; Cơ sở dữ liệu
+2212902|Đinh Thị|Lan|CTK46B|05/03/2004|012345682|0909.888.777|120 Nguyễn Trãi, TP Hà Nội|0|An toàn và bảo mật hệ thống
+2100015|Vũ Văn|Hùng|CTK45A|22/01/2003|012345690|0932.567.890|56 Hai Bà Trưng, TP Hồ Chí Minh|1|Mạng máy tính; Hệ điều hành; Kỹ thuật lập trình
+2312789|Trần Thị|Trung|CTK47A|07/06/2005|012584765|0985.988.888|8B Bùi Thị Xuân, TP Đà Lạt|0|Lập trình mạng; Đồ án cơ sở; Phương pháp NCKH
+2312778|Lê Văn|Luyện|CTK47A|10/08/2005|012874569|0965.678.777|44B Trần Khánh Dư, TP Đà Lạt|1|Lập trình mạng; Đồ án cơ sở
